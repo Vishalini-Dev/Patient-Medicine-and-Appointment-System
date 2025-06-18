@@ -10,7 +10,9 @@
 ### Steps
 
 git clone https://github.com/your-repo/Patient Medicine and Appointment System
+
 cd Patient Medicine and Appointment System
+
 ./mvnw spring-boot:run
 
 Open index.html in browser
