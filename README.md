@@ -1,4 +1,4 @@
-#   Patient Medicine and Appointment System– Documentation
+#   Patient Medicine and Appointment System
 
 ## 1. Setup & Run Instructions
 
